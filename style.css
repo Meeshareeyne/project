@@ -8,7 +8,7 @@ body{
     margin: 0%;
 }
 .cl{
-    background-imag: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)), url(images/call.webp);
+    
     background-size: cover;
 }
 ul{
